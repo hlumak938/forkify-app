@@ -1,2 +1,2 @@
 # forkify-app
-Small web app on vanilla js with a lot of different cooking recipes 
+Web app to search for different recipes
